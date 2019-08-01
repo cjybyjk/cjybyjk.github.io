@@ -1,4 +1,4 @@
 [
     { "name":"test1","version":"1", "type":"full","url":"a1","description":"测试1","timestamp":1,"filesize":100000,"sha1":"sssssss" },
-    { "name":"test2","version":"2", "type":"incremental","url":"a2","description":"测试2","timestamp":2,"filesize":200000,"sha1":"b" }
+    { "name":"test2","version":"2", "type":"incremental","url":"a2","description":"测试2","timestamp":2,"filesize":200000,"sha1":"mmmmmmmmmmmmmmm" }
 ]

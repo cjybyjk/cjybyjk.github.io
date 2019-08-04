@@ -1,12 +1,12 @@
 [
-    { "name":"test1","version":"1", "requirement":23333, "type":"full","url":"a1","description":"测试1","timestamp":1564710190,"file_size":10000000,"sha1":"a1" },
-    { "name":"test2","version":"2","requirement":23334,  "type":"incremental","url":"a2","description":"测试2","timestamp":2000000,"file_size":20000000,"sha1":"a2" },
-    { "name":"test3","version":"3","requirement":111111, "type":"full","url":"a1","description":"测试3","timestamp":1564710194,"file_size":30000000,"sha1":"a3" },
-    { "name":"test4","version":"4","requirement":10, "type":"incremental","url":"a2","description":"测试4","timestamp":1564710166,"file_size":40000000,"sha1":"a4" },
-    { "name":"test5","version":"5","requirement":111, "type":"full","url":"a1","description":"测试5","timestamp":1564710195,"file_size":50000000,"sha1":"a5" },
-    { "name":"test6","version":"6","requirement":10, "type":"incremental","url":"a2","description":"测试6","timestamp":1564710196,"file_size":60000000,"sha1":"a6" },
-    { "name":"test7","version":"7","requirement":0, "type":"full","url":"a1","description":"测试7","timestamp":7000000,"file_size":70000000,"sha1":"a7" },
-    { "name":"test8","version":"8","requirement":10, "type":"incremental","url":"a2","description":"测试8","timestamp":1564710197,"file_size":80000000,"sha1":"a8" },
-    { "name":"test9","version":"9","requirement":10, "type":"full","url":"a1","description":"测试9","timestamp":9000000,"file_size":1564710198,"sha1":"a9" },
-    { "name":"test10","version":"10","requirement":0, "type":"incremental","url":"a2","description":"测试10","timestamp":1564710199,"file_size":10000000,"sha1":"a10" }
+    { "name":"test1","device":"generic_x86","version":"1", "requirement":23333, "type":"full","url":"a1","description":"测试1","timestamp":1564710190,"file_size":10000000,"sha1":"a1" },
+    { "name":"test2","device":"generic_x86","version":"2","requirement":23334,  "type":"incremental","url":"a2","description":"测试2","timestamp":2000000,"file_size":20000000,"sha1":"a2" },
+    { "name":"test3","device":"generic_x86","version":"3","requirement":111111, "type":"full","url":"a1","description":"测试3","timestamp":1564710194,"file_size":30000000,"sha1":"a3" },
+    { "name":"test4","device":"generic_x86","version":"4","requirement":10, "type":"incremental","url":"a2","description":"测试4","timestamp":1564710166,"file_size":40000000,"sha1":"a4" },
+    { "name":"test5","device":"generic_x86","version":"5","requirement":111, "type":"full","url":"a1","description":"测试5","timestamp":1564710195,"file_size":50000000,"sha1":"a5" },
+    { "name":"test6","device":"generic_x86","version":"6","requirement":10, "type":"incremental","url":"a2","description":"测试6","timestamp":1564710196,"file_size":60000000,"sha1":"a6" },
+    { "name":"test7","device":"generic_x86","version":"7","requirement":0, "type":"full","url":"a1","description":"测试7","timestamp":7000000,"file_size":70000000,"sha1":"a7" },
+    { "name":"test8","device":"generic_x86","version":"8","requirement":10, "type":"incremental","url":"a2","description":"测试8","timestamp":1564710197,"file_size":80000000,"sha1":"a8" },
+    { "name":"test9","device":"generic_x86","version":"9","requirement":10, "type":"full","url":"a1","description":"测试9","timestamp":9000000,"file_size":1564710198,"sha1":"a9" },
+    { "name":"test10","device":"generic_x86","version":"10","requirement":0, "type":"incremental","url":"a2","description":"测试10","timestamp":1564710199,"file_size":10000000,"sha1":"a10" }
 ]

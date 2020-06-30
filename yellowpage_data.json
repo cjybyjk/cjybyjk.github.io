@@ -1,0 +1,62 @@
+{
+    "version": "0001",
+    "status": "0",
+    "data": [
+        {
+            "name": "中国移动",
+            "avatar": "http://wap.10086.cn/images/top_img.png",
+            "phone": [
+                {
+                "number": 10086,
+                "label": "客服"
+                },
+                {
+                "number": 1008611,
+                "label": "话费查询"
+                }
+            ],
+            "website": [
+                {
+                "url": "https://www.10086.cn/",
+                "label": "门户"
+                },
+                {
+                "url": "https://jf.10086.cn/",
+                "label": "积分商城"
+                }
+            ]
+        },
+        {
+            "name": "中国联通",
+            "avatar": "https://img.client.10010.com/mobileService/view/client/images/logo2.png",
+            "phone": [
+                {
+                "number": 10010,
+                "label": "客服"
+                }
+            ],
+            "website": [
+                {
+                "url": "http://www.10010.com",
+                "label": "门户"
+                }
+            ]
+        },
+        {
+            "name": "中国电信",
+            "avatar": "https://raw.githubusercontent.com/metowolf/vCards/master/data/%E9%80%9A%E8%AE%AF%E6%9C%8D%E5%8A%A1/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1.png",
+            "phone": [
+                {
+                "number": 10000,
+                "label": "客服"
+                }
+            ],
+            "website": [
+                {
+                "url": "http://www.189.cn/",
+                "label": "网上营业厅"
+                }
+            ]
+        }
+    ]
+}

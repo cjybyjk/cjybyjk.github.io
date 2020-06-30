@@ -4,7 +4,7 @@
     "data": [
         {
             "name": "中国移动",
-            "avatar": "http://wap.10086.cn/images/top_img.png",
+            "avatar": "https://raw.githubusercontent.com/metowolf/vCards/master/data/%E9%80%9A%E8%AE%AF%E6%9C%8D%E5%8A%A1/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8.png",
             "phone": [
                 {
                 "number": 10086,
@@ -28,7 +28,7 @@
         },
         {
             "name": "中国联通",
-            "avatar": "https://img.client.10010.com/mobileService/view/client/images/logo2.png",
+            "avatar": "https://raw.githubusercontent.com/metowolf/vCards/master/data/%E9%80%9A%E8%AE%AF%E6%9C%8D%E5%8A%A1/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A.png",
             "phone": [
                 {
                 "number": 10010,
